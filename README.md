@@ -7,11 +7,11 @@
 - tested with FF, FF Developer v77 and Chrome  
 
 ## Features:  
--- HTML5 file upload functionality in one file  
--- single file upload  
--- while uploading logo rotates and upload percent displayed  
--- upload via AJAX  
--- store files in local subfolder: ./files/  
+- HTML5 file upload functionality in one file  
+- single file upload  
+- while uploading logo rotates and upload percent displayed  
+- upload via AJAX  
+- store files in local subfolder: ./files/  
 
 ## Usage
 - drop into a folder on your website, customize, and use
