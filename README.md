@@ -7,7 +7,7 @@
 - tested with FF, FF Developer v77 and Chrome  
 
 ## Features:  
--- HTML5 file upload functionality
+-- HTML5 file upload functionality in one file  
 -- single file upload  
 -- while uploading logo rotates and upload percent displayed  
 -- upload via AJAX  
