@@ -1,0 +1,1 @@
+Required folder for index.php to work.  Uploaded files stored here.  Code should be updated to auto-create folder.
